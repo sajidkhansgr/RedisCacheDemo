@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RedisCacheDemo/.vs
+/RedisCacheDemo/bin/Debug/net8.0
+/RedisCacheDemo/obj
